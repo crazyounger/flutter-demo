@@ -1,16 +1,12 @@
-# github_client_app
+## Flutter Basic Widget
 
-github client use flutter
+ ### 1. Column
+ ### 2. Row
+ ### 3. Container
+ ### 4. Icon
+ ### 5. Image
+ ### 6. Placeholder
+ ### 7. Text
+ ### 8. Scaffold
+ ### 9. Appbar
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

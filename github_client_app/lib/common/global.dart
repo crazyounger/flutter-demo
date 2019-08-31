@@ -15,7 +15,7 @@ class Global {
   static SharedPreferences _prefs;
   static Profile profile = new Profile();
 
-//  static NetCache netCache = new NetCache();
+  static NetCache netCache = new NetCache();
   static List<MaterialColor> get themes => _themes;
   static bool get isRelease => bool.fromEnvironment("dart.vm.product");
 
@@ -34,7 +34,7 @@ class Global {
       ..maxAge = 3600
       ..maxCount = 100;
     //初始化网络请求相关
-//    Git.init();
+    Git.init();
   }
 
   static saveProfile() =>
